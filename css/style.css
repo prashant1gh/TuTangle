@@ -35,6 +35,7 @@
     padding-top: 8px;
     font-size: 15px;
     font-weight: bold;
+    padding-right: 5px;
 }
 
 #user-menu {
@@ -145,16 +146,18 @@
     background-image: url(../images/invite-active.png);
 }
 
-#friend-request {
-    background-image: url(../images/friend.png);
-}
-
 .user-notification ul li span {
     font-size: 11px;
 }
 
 #friend-request {
     color: #aaa;
+    background-image: url(../images/friend.png);
+    margin-right: 0;
+}
+
+#li-friend-request {
+    padding-right: 0 !important;
 }
 
 #user-menu {
