@@ -18,8 +18,8 @@
     padding-top: 16px;
 }
 
-.color {
-    color: #8fb057;
+.green {
+    color: #8fb057 !important;
 }
 
 
@@ -298,10 +298,6 @@
 .feed ul li a {
     text-decoration: none;
     color: #309db2;
-}
-
-.color {
-    color: #8fb057;
 }
 
 .feed p span {
